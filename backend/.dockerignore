@@ -1,0 +1,17 @@
+node_modules
+npm-debug.log
+Dockerfile*
+docker-compose*
+.dockerignore
+.git
+.gitignore
+.prettierrc
+.editorconfig
+.eslintrc
+README.md
+LICENSE
+BUILD
+PUSH
+.vscode
+*.log
+*.egg-info
